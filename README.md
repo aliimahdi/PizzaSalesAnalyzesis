@@ -1,7 +1,9 @@
 Ali, [12/30/2023 9:05 PM]
 # PizzaSalesAnalyzesis-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODUxMjE4N2MtNzljMS00NzlmLWEwOTUtODExZGJjZTZkMmMwIiwidCI6Ijk0ZjljNmE1LTBjZDQtNDE4NC1iNTQzLTcxNWMxY2ExYmQ4NSJ9
+
+### Dashboard Link:
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUxMjE4N2MtNzljMS00NzlmLWEwOTUtODExZGJjZTZkMmMwIiwidCI6Ijk0ZjljNmE1LTBjZDQtNDE4NC1iNTQzLTcxNWMxY2ExYmQ4NSJ9)
 
 
 ## Introduction 
@@ -86,7 +88,6 @@ The completed dashboard comprises:
 ![capture_20231231184018474](https://github.com/aliimahdi/PizzaSalesAnalyzesis/assets/153517331/35b9f7a6-ac35-40db-a99b-7878b64e6cb6)
 
 
- 
  #  Snapshot (Page 2)
 
  
